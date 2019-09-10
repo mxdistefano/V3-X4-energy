@@ -1,0 +1,3 @@
+Usage:
+	python X4-energy-method.py<V3 loop sequence>
+Example: python X4-energy-method.py CTRPNNNTRKRVSLGPGRVWYTTGQIVGDIRKAHC
